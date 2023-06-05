@@ -1,0 +1,56 @@
+Booking description,Service,Departure airport code,Arrival airport code,Cabin class,Drop-off city,Pick-up city,End date,Start date,Distance,Itinerary Type,Departure Train Station,Arrival Train Station
+Flight for trip 8739001,Flights,SOF,CDG,economy,,,4/17/23,4/17/23,1754,one-way,,
+Hotel for trip 8991415,Hotels,,,,,,4/21/23,4/17/23,,,,
+Premium Service for Trip 8739001,Premium Service,,,,,,4/17/23,4/17/23,,,,
+Premium Service for Trip 8991415,Premium Service,,,,,,4/21/23,4/17/23,,,,
+Hotel for trip 8991135,Hotels,,,,,,4/14/23,4/13/23,,,,
+Premium Service for Trip 8991135,Premium Service,,,,,,4/14/23,4/13/23,,,,
+Train for trip 8991135,Trains,,,economy,,,4/14/23,4/13/23,252,return,Berlin Hbf,Hamburg Hbf
+Hotel for trip 8986836,Hotels,,,,,,4/5/23,4/4/23,,,,
+Premium Service for Trip 8934387,Premium Service,,,,,,4/4/23,4/4/23,,,,
+Train for trip 8934387,Trains,,,economy,,,4/4/23,4/4/23,167,one-way,München Hbf,Erlangen
+Train for trip 8940784,Trains,,,economy,,,4/4/23,4/4/23,365,one-way,Erlangen,Berlin Hbf
+Train for trip 8986836,Trains,,,economy,,,4/4/23,4/4/23,,one-way,Erlangen,Berlin Hbf
+Seat ancillary,Other Service,,,economy,,,4/3/23,4/3/23,,one-way,Berlin Hbf,München Hbf
+Train for trip 8940784,Trains,,,economy,,,4/3/23,4/3/23,,one-way,Berlin Hbf,München Hbf
+Hotel for trip 8940784,Hotels,,,,,,4/4/23,4/2/23,,,,
+Hotel for trip 8958028,Hotels,,,,,,4/4/23,4/2/23,,,,
+Premium Service for Trip 8940784,Premium Service,,,,,,4/4/23,4/2/23,,,,
+Premium Service for Trip 8940784,Premium Service,,,,,,4/4/23,4/2/23,,,,
+Premium Service for Trip 8958028,Premium Service,,,,,,4/4/23,4/2/23,,,,
+Premium Service for Trip 8987442,Premium Service,,,,,,4/3/23,4/2/23,,,,
+Train for trip 8940784,Trains,,,economy,,,4/2/23,4/2/23,,one-way,Berlin Hbf (tief),München Hbf
+Train for trip 8987442,Trains,,,economy,,,4/3/23,4/2/23,505,one-way,Berlin Hbf,München Hbf
+FLEXIPERK_TRIPS for Trip 8873623,FlexiPerk Trips Service,,,,,,4/2/23,3/31/23,,,,
+Hotel for trip 8873623,Hotels,,,,,,4/2/23,3/31/23,,,,
+Seat ancillary,Other Service,,,economy,,,4/2/23,3/31/23,,return,Berlin Hbf,Hamburg Hbf
+Seat ancillary,Other Service,,,economy,,,4/2/23,3/31/23,,return,Berlin Hbf,Hamburg Hbf
+Premium Service for Trip 8873623,Premium Service,,,,,,4/2/23,3/31/23,,,,
+Train for trip 8873623,Trains,,,economy,,,4/2/23,3/31/23,252,return,Berlin Hbf,Hamburg Hbf
+Flight for trip 8643155,Flights,BER,DUB,economy,,,3/30/23,3/30/23,1317,one-way,,
+Time modification,Other Service,BER,DUB,economy,,,3/30/23,3/30/23,,one-way,,
+Premium Service for Trip 8889050,Premium Service,,,,,,3/30/23,3/29/23,,,,
+Train for trip 8889050,Trains,,,economy,,,3/30/23,3/29/23,505,return,München Hbf,Berlin Hbf
+Flight for trip 8643155,Flights,DUB,BER,economy,,,3/28/23,3/28/23,1317,one-way,,
+Hotel for trip 8643155,Hotels,,,,,,3/30/23,3/28/23,,,,
+Hotel for trip 8854140,Hotels,,,,,,3/29/23,3/28/23,,,,
+City Tax,Other Service,,,,,,3/30/23,3/28/23,,,,
+Priority boarding,Other Service,DUB,BER,economy,,,3/28/23,3/28/23,,one-way,,
+Seat ancillary,Other Service,,,economy,,,3/29/23,3/28/23,,return,Frankfurt (Main) Hbf,Berlin Hbf
+Seat ancillary,Other Service,,,economy,,,3/29/23,3/28/23,,return,Frankfurt (Main) Hbf,Berlin Hbf
+Premium Service for Trip 8643155,Premium Service,,,,,,3/30/23,3/28/23,,,,
+Premium Service for Trip 8854140,Premium Service,,,,,,3/29/23,3/28/23,,,,
+Premium Service for Trip 8856558,Premium Service,,,,,,3/29/23,3/28/23,,,,
+Train for trip 8856558,Trains,,,economy,,,3/29/23,3/28/23,424,return,Frankfurt (Main) Hbf,Berlin Hbf
+Flight for trip 8723508,Flights,CDG,BER,economy,,,3/26/23,3/26/23,857,one-way,,
+Priority boarding,Other Service,CDG,BER,economy,,,3/26/23,3/26/23,,one-way,,
+Flight for trip 8777373,Flights,MUC,CDG,economy,,,3/23/23,3/23/23,682,one-way,,
+Hotel for trip 8723508,Hotels,,,,,,3/26/23,3/23/23,,,,
+Premium Service for Trip 8723508,Premium Service,,,,,,3/26/23,3/23/23,,,,
+Train for trip 8723508,Trains,,,economy,,,3/23/23,3/23/23,874,one-way,Berlin Hbf,Paris Gare de l’Est
+Seat ancillary,Other Service,,,economy,,,3/22/23,3/22/23,,one-way,Berlin Hbf,München Hbf
+Premium Service for Trip 8777373,Premium Service,,,,,,3/23/23,3/22/23,,,,
+Train for trip 8777373,Trains,,,economy,,,3/22/23,3/22/23,505,one-way,Berlin Hbf,München Hbf
+Flight for trip 8645192,Flights,BER,GVA,economy,,,3/16/23,3/16/23,875,one-way,,
+Premium Service for Trip 8645192,Premium Service,,,,,,3/16/23,3/16/23,,,,
+refund for trip 7331475,Refund for hotel,,,,,,1/30/23,1/23/23,,,,

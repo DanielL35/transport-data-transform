@@ -1,0 +1,9 @@
+Transport type;Departure date;Number of employees;Flight classes (Economy / Business / First / Unknown);Origin Location (Flight / Road / Rail);Destination Location (Flight / Road / Rail);Distance in km;Short-haul flight (<1000km);Long-haul flight (>1000km);Short-haul Road ride (<30km);Long-haul Road ride (>30km);Short-haul Rail ride (<200km);Long-haul Rail ride (>200km)
+Rail, Road or Flight. Note capitalisation. Use singular.;Date format must be YYYY-MM-DD;# of employees on trip;Flights only;Flight: Use three letter airport code. Rail & Road: Address or name of Rail station. For airport codes, access our Help Centre.;Flight: Use three letter airport code. Rail & Road: Address or name of Rail station. For airport codes, access our Help Centre.;Use when missing trip locations.;Only when missing trip locations or distance data.;Only when missing trip locations or distance data.;Only when missing trip locations or distance data.;Only when missing trip locations or distance data.;Only when missing trip locations or distance data.;Only when missing trip locations or distance data.
+Flight;2021-11-22;3;Economy;BER;BCN;;;;;;;
+Flight;2021-11-22;3;Unknown;;;;;Yes;;;;
+Road;2022-01-22;3;;Hauptbahnhof, Europaplatz 1, 10557 Berlin, Germany;Plaça dels Països Catalans, 1, 7, 08014 Barcelona, Spain;;;;;;;
+Road;2022-01-22;3;;;;1865;;;;;;
+Road;2022-01-22;3;;;;;;;;Yes;;
+Rail;2021-11-22;3;;Berlin Central Station;Barcelona-Sants;;;;;;;
+Rail;2021-11-22;3;;;;;;;;;;Yes
